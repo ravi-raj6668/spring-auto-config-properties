@@ -9,5 +9,4 @@ public class AutoConfigFileApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(AutoConfigFileApplication.class, args);
 	}
-
 }
